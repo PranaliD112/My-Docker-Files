@@ -1,0 +1,6 @@
+version: '3'
+services:
+	vaibhav:
+		image: 'satish7498/my-app-1.0'
+		ports:
+		- "8014:8080"
