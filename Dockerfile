@@ -2,7 +2,7 @@
 From tomcat:8-jre8
 
 # Maintainer
-MAINTAINER "stronger-than-world"
+MAINTAINER "Pranali"
 
 #Copy War to Webapps
 COPY webapp.war /usr/local/tomcat/webapps
