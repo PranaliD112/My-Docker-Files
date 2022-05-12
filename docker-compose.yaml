@@ -1,6 +1,6 @@
 version: '3'
 services:
- vaibhav:
-  image: 'satish7498/my-app-1.0'
+ pranali:
+  image: '7218127084/image1.0'
   ports:
-  - "8014:8080"
+  - "8085:8080"
